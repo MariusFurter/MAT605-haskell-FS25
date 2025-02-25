@@ -23,6 +23,7 @@ seven = "seven"
 -- Get index: !! (indexing starts at 0)
 -- head, tail, last, init
 -- maximum, minimum, sum, product
+-- reverse
 -- elem
 
 -- Ranges [1..10] / [1,4..12] / [1..] (Lazy!)
